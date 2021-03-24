@@ -33,10 +33,26 @@ body{
 }
 
 #navbar a{
-    color: white;
+    color: darkred;
     text-decoration: none;
     font-size: 18px;
     padding-right: 15px;
+}
+
+#main{
+    float: right;
+    width: 70%;
+    padding: 30px 0;
+    box-sizing: border-box;
+}
+
+#sidebar{
+    float: left;
+    width: 30%;
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 #main-footer{
