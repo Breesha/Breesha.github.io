@@ -33,7 +33,7 @@ body{
 }
 
 #navbar a{
-    color: darkred;
+    color: #333;
     text-decoration: none;
     font-size: 18px;
     padding-right: 15px;
@@ -42,7 +42,7 @@ body{
 #main{
     float: right;
     width: 70%;
-    padding: 30px 0;
+    padding: 10px;
     box-sizing: border-box;
 }
 
