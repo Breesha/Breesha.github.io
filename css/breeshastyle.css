@@ -27,14 +27,22 @@ body{
     font-weight: 600;
     font-style: italic;
     text-transform: uppercase;
+    position: absolute;
+    top: 20px;
+    left: 200px;
 }
 
 .box-1 h3{
     font-weight: 400;
+    position: absolute;
+    top: 40px;
+    left: 200px;
 }
 
 .box-1 p{
     font-size: 12px;
+    position: absolute;
+    left: 200px;
 }
 
 #navbar{
@@ -62,7 +70,6 @@ body{
 
 #main{
     float: center;
-    width: 70%;
     padding: 10px;
     box-sizing: border-box;
 }
