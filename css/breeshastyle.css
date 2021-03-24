@@ -14,7 +14,7 @@ body{
 }
 
 .box-1{
-    padding: 50px;
+    margin-top: 50px;
     background-color: white;
     color: #555;
 }
@@ -23,15 +23,17 @@ body{
     font-weight: 600;
     font-style: italic;
     text-transform: uppercase;
-    position: relative;
+    position: center;
 }
 
 .box-1 h3{
     font-weight: 400;
+    position: center;
 }
 
 .box-1 p{
     font-size: 12px;
+    position: center;
 }
 
 #navbar{
