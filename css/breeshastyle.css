@@ -39,6 +39,11 @@ body{
     padding-right: 15px;
 }
 
+.fix-me{
+    position: fixed;
+    top: 400px;
+}
+
 .clr{
     clear:both;
 }
