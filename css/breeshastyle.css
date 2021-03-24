@@ -40,7 +40,7 @@ body{
     padding-right: 15px;
 }
 
-#navbar a.hover{
+#navbar a:hover{
     color: darkred;
 }
 
