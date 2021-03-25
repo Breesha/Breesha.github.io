@@ -98,3 +98,19 @@ body{
 .grouping p{
     margin-left: 30px;
 }
+
+.button{
+    background-color: cornflowerblue;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 15px;
+}
+
+.button:hover{
+    background-color: darkblue;
+}
+
+.imagePlacement{
+    float: right;
+}
