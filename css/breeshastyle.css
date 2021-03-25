@@ -23,7 +23,7 @@ body{
 }
 
 #profilepic{
-    margin: 0 0 100px 10px;
+    margin: 0 0 200px 10px;
     float: left;
 }
 .box-1 h2{
@@ -85,6 +85,8 @@ body{
 }
 
 #addingTopGap{
+    padding: 10px;
+    background-color: white;
     margin-top: 100px;
 }
 
